@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/posts/[slug]/page": "app/posts/[slug]/page.js",
+  "/c89ovt/yh789rf/admin/page": "app/c89ovt/yh789rf/admin/page.js",
+  "/login/page": "app/login/page.js",
+  "/c89ovt/yh789rf/admin/contentform/page": "app/c89ovt/yh789rf/admin/contentform/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
